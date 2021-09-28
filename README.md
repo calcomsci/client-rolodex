@@ -4,7 +4,7 @@ This is a client rolodex that allows you to create a list of contacts
 
 To use this app, download the source code above by clicking the Code button and download the packaged file.
 
-Open Visual Studio Code, and make sure your Explorer is on, then drag all the files into the the Explorer tab.
+Open Visual Studio Code, and make sure your Explorer tab is on (if not, in the Visual Studio Code,  go to View->Explorer), then drag all the files into the the Explorer tab.
 Once all the files are in the the Explorer tab, right click on the package.json and select "Open in Integrated Terminal"
 With the Terminal on the bottom of the Visual Studio Code screen, run the command "npm install webpack", followed by "npm start"
 
